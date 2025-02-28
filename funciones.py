@@ -5,5 +5,3 @@ def es_primo(num):
             return False
     print("Es primo")
     return True
-
-es_primo(13)
